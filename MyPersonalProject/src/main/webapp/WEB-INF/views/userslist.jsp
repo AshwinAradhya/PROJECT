@@ -31,7 +31,6 @@
 				        <sec:authorize access="hasRole('ADMIN')">
 				        	<th width="100"></th>
 				        </sec:authorize>
-				        
 					</tr>
 		    	</thead>
 	    		<tbody>
